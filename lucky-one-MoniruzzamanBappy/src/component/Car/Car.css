@@ -1,0 +1,31 @@
+.car-item{
+    border: 2px solid rgba(40, 96, 105, 0.815);
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 30px;
+}
+.car-img-container{
+
+    text-align: center;
+}
+.img-car{
+    height: 220px;
+    width: 300px;
+    border: 0;
+    border-radius: 10px;
+}
+.btn-cart{
+    width: 100%;
+    border: 0;
+    border-radius: 30px;
+    background-color: rgba(40, 96, 105, 0.815);
+    color: white;
+    font-size: larger;
+    margin-top: 25px;
+    height: 30px;
+}
+
+.btn-cart:hover{
+    background-color: rgba(122, 120, 12, 0.699);
+}
+

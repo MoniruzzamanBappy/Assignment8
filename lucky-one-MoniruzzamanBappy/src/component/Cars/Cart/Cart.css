@@ -1,0 +1,34 @@
+.cart-container{
+
+        position: sticky;
+        top: 0;
+    
+}
+
+.cart-container li{
+    text-decoration: none;
+    border: 0;
+    background-color: rgba(40, 96, 105, 0.815);
+    color: white;
+    border-radius: 15px;
+    height: 30px;
+    list-style-type: none;
+    text-align: center;
+    margin-top: 10px;
+}
+.cart-btn{
+    width: 200px;
+    border: 0;
+    pointer-events: fill;
+    display: block;
+    border-radius: 30px;
+    background-color: rgba(122, 120, 12, 0.699);
+    color: white;
+    font-size: larger;
+    margin-top: 25px;
+    height: 30px;
+}
+
+.cart-btn:hover{
+    background-color: rgba(40, 96, 105, 0.815);
+}
